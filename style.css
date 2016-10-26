@@ -1,0 +1,77 @@
+body
+    {
+    color:aquamarine;
+    background:rgba(52, 48, 139, 0.92)
+    }
+
+h1  
+    {
+    color:black; 
+    background:#b7a8d9;
+    }
+
+body 
+    {
+    color:darkmagenta; 
+    background: white;
+    }
+
+blockquote 
+    { 
+    color: blue; 
+    }
+
+h1  
+    { 
+    color: rgba(0,0,0,.4); 
+    }
+
+td[rowspan="2"]
+    { 
+    color: #fff; 
+    }
+
+strong 
+    { 
+    color: #00f; color: #f00;
+    }
+
+ p 
+    { 
+    color: navy;
+    } 
+/*ＣＳＳ同屬性後者為大*/
+
+blockquote 
+    { 
+    color: #fff ;
+    background-color: lightblue;
+    }
+
+div {font-family:fantasy;}
+
+
+td[colspan="2"]{font-size: 3px;}
+
+td[colspan="2"]{font-weight:500;}
+
+td[rowspan="2"]{text-align: center;}
+
+.rect{
+    width:150px;
+    height:150px;
+    border-radius: 8px;
+/*    900px 圓形*/
+    background:red;
+}
+
+<br>
+<br>
+<hr>
+
+.rect1{
+    width:150px;
+    height:150px;
+    border-radius: 8px;
+    background:red;
+}
